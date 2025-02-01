@@ -5,7 +5,7 @@
 <h3 align="center">✨ About Me ✨</h3>
 
 <div align="center">
- <p>I'm a B.Sc. student passionate about AI and Computer Vision</p>
+ <p>I'm a B.Sc. student passionate about Multimodal AI</p>
  <p>Currently studying Applied Artificial Intelligence at Sungkyunkwan University 🎓</p>
 </div>
 
