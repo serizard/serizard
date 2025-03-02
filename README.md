@@ -23,7 +23,7 @@
    </tr>
    <tr>
      <td align="center">
-       <img src="https://img.shields.io/badge/-Domain%20Adaptation-95A5A6?style=for-the-badge"/>
+       <img src="https://img.shields.io/badge/-Efficient%20Learning-95A5A6?style=for-the-badge"/>
      </td>
      <td align="center">
        <img src="https://img.shields.io/badge/-Computer%20Vision-6C5CE7?style=for-the-badge"/>
