@@ -18,16 +18,16 @@
        <img src="https://img.shields.io/badge/-Multimodal%20Learning-FF6B6B?style=for-the-badge"/>
      </td>
      <td align="center">
-       <img src="https://img.shields.io/badge/-Vision%20Language%20Models-4ECDC4?style=for-the-badge"/>
+       <img src="https://img.shields.io/badge/-Efficient%20AI-4ECDC4?style=for-the-badge"/>
      </td>
    </tr>
    <tr>
      <td align="center">
-       <img src="https://img.shields.io/badge/-Efficient%20Learning-95A5A6?style=for-the-badge"/>
+       <img src="https://img.shields.io/badge/-Machine%20Learning-95A5A6?style=for-the-badge"/>
      </td>
-     <td align="center">
+<!--      <td align="center">
        <img src="https://img.shields.io/badge/-Computer%20Vision-6C5CE7?style=for-the-badge"/>
-     </td>
+     </td> -->
    </tr>
  </table>
 </div>
