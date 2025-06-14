@@ -45,19 +45,3 @@
    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
  </a>
 </div>
-
-<h3 align="center">📊 GitHub Stats 📊</h3>
-
-<div align="center">
- <!-- 기본 스탯과 언어 카드 -->
- <img src="https://github-readme-stats.vercel.app/api?username=serizard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serizard&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
- 
- <!-- Contribution Graph -->
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=serizard&theme=tokyo-night&hide_border=true"/>
-</div>
-
-<div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=7371FC&height=100&section=footer"/>
-</div>
