@@ -42,7 +42,6 @@
  <br/>
  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
- <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white"/>
 
  <h4>Tools & Platforms</h4>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
