@@ -45,3 +45,7 @@
    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
  </a>
 </div>
+
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=7371FC&height=100&section=footer"/>
+</div>
